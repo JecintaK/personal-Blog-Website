@@ -1,0 +1,27 @@
+.photo{
+  width: 290px;
+  height:158px;
+  object-fit: cover;
+  max-width: 100%;
+}
+.emoji{
+  font-size: 40px;
+}
+.photo1{
+  width: 220px;
+  height:198px;
+  object-fit: cover;
+  max-width: 100%;
+}
+.photo2{
+  width: 290px;
+  height:370px;
+  object-fit: cover;
+  padding-top: 40px;
+  max-width: 100%;
+}
+@media only screen and (max-width: 620px) {
+  
+  .menu, .main, .right {
+    width: 100%;
+  }
